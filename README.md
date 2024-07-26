@@ -1,6 +1,11 @@
 # Previsão de Doença Cardíaca com Aprendizado de Máquina: Um Estudo com Dados Clínicos da UCI (University of California, Irvine)
 
-O objetivo deste projeto é prever a **presença ou ausência de doença cardíaca** em pacientes com base em diversas **características clínicas**. A análise é realizada usando um conjunto de **dados de um estudo cardíaco** da  [Universidade da Califórnia, Irvine (UCI).](https://archive.ics.uci.edu/)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c659016b-3f28-4a77-9572-6452122c22ec" width="600" alt="Coração" /></td>
+    <td>O objetivo deste projeto é prever a <b>presença ou ausência de doença cardíaca</b> em pacientes com base em diversas <b>características clínicas</b>. A análise é realizada usando um conjunto de <b>dados de um estudo cardíaco</b> da  <a href="https://archive.ics.uci.edu/">Universidade da Califórnia, Irvine (UCI).</a></td>
+  </tr>
+</table>
 
 ## Estrutura do Projeto:
 
